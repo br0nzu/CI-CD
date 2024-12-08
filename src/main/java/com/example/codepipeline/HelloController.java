@@ -13,6 +13,6 @@ public class HelloController {
 
     @GetMapping("/")
     public String root() {
-        return "YES";
+        return "2024 CloudComputing.";
     }
 }
